@@ -1,0 +1,6 @@
+name: WarzoneArena
+version: 0.0.1
+author: Kitsoko
+main: me.kitsoko.warzonearena.Main
+commands:
+  arena:
